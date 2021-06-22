@@ -1,0 +1,10 @@
+{
+  "counts": {
+    "DEBUG": 0,
+    "INFO": 1,
+    "WARN": 0,
+    "ERROR": 1,
+    "FATAL": 0
+  },
+  "unclassified": 1
+}
